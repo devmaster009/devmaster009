@@ -1,8 +1,5 @@
 ###  Hello Everyone, I'm Dev Master! 👋
 
-
-|||||| DEVELOPMENT IN PROGRESS ||||||||..............100%
-
   
 -= Welcome to my Github profile =-
 
@@ -13,6 +10,8 @@ Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, AP
 
 Also open to collab with web 2.0 and web 3.0 based app projects.
 
+
+|||||| DEVELOPMENT IN PROGRESS ||||||||..............100%
 
 <!--
 **devmaster009/devmaster009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
