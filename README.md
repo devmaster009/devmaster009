@@ -8,7 +8,7 @@
 I'm a software engineer who is passionate about elevating life-style with upcoming technology & contributing to open-source platforms in approachable manner. 
 Involved in creating tech-space for people around, and helping to build tech community further. 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devmaster009/devmaster009/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devmaster009/devmaster009/master/gif4.gif">
 
 Full Stack technologies that I'm familiar with are as follows
 
