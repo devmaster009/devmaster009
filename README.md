@@ -1,7 +1,7 @@
 ###  Hello Everyone, I'm Dev Master! 👋
 
-  
--= Welcome to my Github profile =- <p align="right"> <img src="https://komarev.com/ghpvc/?username=devmaster009&label=Profile%20views&color=0e75b6&style=flat" alt="devmaster009" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=devmaster009&label=Profile%20views&color=0e75b6&style=flat" alt="devmaster009" /> </p>  
+-= Welcome to my Github profile =- 
 
 I'm a software engineer who is passionate about elevating life-style with upcoming technology & contributing to open-source platforms in approachable manner. 
 Involved in creating tech-space for people around, and helping to build tech community further. 
