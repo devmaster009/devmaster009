@@ -8,7 +8,7 @@
 I'm a software engineer who is passionate about elevating life-style with upcoming technology & contributing to open-source platforms in approachable manner. 
 Involved in creating tech-space for people around, and helping to build tech community further. 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devmaster009/devmaster009/master/gif3.gif">
 
 Full Stack technologies that I'm familiar with are as follows
 
@@ -56,8 +56,9 @@ Data Visualization Tools like -
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  
 
+#### **Visitor Count**
+ ![Visitor Count](https://profile-counter.glitch.me/{devmaster009}/count.svg)
 
-|||||| DEVELOPMENT IN PROGRESS ||||||||..............100%
 
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/devmaster009/devmaster009/blob/output/github-contribution-grid-snake.svg)
