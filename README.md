@@ -4,7 +4,7 @@
 -= Welcome to my Github profile =-
 
 
-I'm a software engineer who is passionate about elevating life-style with upcoming technology & contributing to open-source platforms in approachable manner. Involved in creating technology for people arond, and building tech community. 
+I'm a software engineer who is passionate about elevating life-style with upcoming technology & contributing to open-source platforms in approachable manner. Involved in creating tech-space for people around, and helping to build tech community further. 
 
 Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), MERN stack (MongoDB, ExpressJs, ReactJS + NodeJS) and GraphQL. 
 
