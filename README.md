@@ -60,8 +60,7 @@ Data Visualization Tools like -
  ![Visitor Count](https://profile-counter.glitch.me/{devmaster009}/count.svg)
 
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/devmaster009/devmaster009/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **devmaster009/devmaster009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
