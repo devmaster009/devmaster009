@@ -1,14 +1,14 @@
 ###  Hello Everyone, I'm Dev Master! 👋
 
  
--= Welcome to my Github profile =- 
+-= Welcome to my Github profile =- <p align="top-right"> <img src="https://komarev.com/ghpvc/?username=devmaster009&label=Profile%20views&color=0e75b6&style=flat" alt="devmaster009" /> </p>
 
 
 
 I'm a software engineer who is passionate about elevating life-style with upcoming technology & contributing to open-source platforms in approachable manner. 
 Involved in creating tech-space for people around, and helping to build tech community further. 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=devmaster009&label=Profile%20views&color=0e75b6&style=flat" alt="devmaster009" /> </p>
+
 Full Stack technologies that I'm familiar with are as follows
 
 Cloud Platforms like - 
@@ -43,15 +43,12 @@ Database & Visualization Tools like -
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
- <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+ <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="40" height="40"/> </a>
  <a href="https://www.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="40" height="40"/> </a>
  
  
  Other Tools like -
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
- <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-Also open to collab with web 2.0 and web 3.0 based app projects.
 
 
 |||||| DEVELOPMENT IN PROGRESS ||||||||..............100%
